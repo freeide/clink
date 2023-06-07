@@ -1,0 +1,3 @@
+sudo x86_64-w64-mingw32-gcc pls.c -lole32
+sudo x86_64-w64-mingw32-gcc -L/usr/local/lib -lexample pls
+((DWORD)-1).
